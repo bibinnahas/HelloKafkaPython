@@ -10,3 +10,5 @@ Find number of messages in a topic by reading the maximum offset
 Find count of RDBMS using Python
 #### variables.py
 Variables for the project
+#### PostgresDupCheck.py
+Check for duplicates in DB for all tables in a schema
